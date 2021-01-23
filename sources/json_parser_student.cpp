@@ -1,3 +1,5 @@
+// Copyright 2020 dima <dmitrymazhorinjr@gmail.com>
+
 #include <json_parser_student.hpp>
 #include <iomanip>
 #include <nlohmann/json.hpp>

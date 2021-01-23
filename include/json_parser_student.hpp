@@ -1,3 +1,5 @@
+// Copyright 2020 dima <dmitrymazhorinjr@gmail.com>
+
 #ifndef INCLUDE_JSON_PARSER_STUDENT_HPP_
 #define INCLUDE_JSON_PARSER_STUDENT_HPP_
 
